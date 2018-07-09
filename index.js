@@ -5,6 +5,8 @@
  * @param {array} passingArray
  * @return {array}
  */
-module.exports = (passingArray) => {
+let removeDuplicateFromArray = (passingArray) => {
     return [... new Set(passingArray)];
 };
+
+module.exports = removeDuplicateFromArray
