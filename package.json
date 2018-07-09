@@ -1,0 +1,23 @@
+{
+  "name": "remove-duplicate-item",
+  "version": "1.0.0",
+  "description": "remove duplicate item from array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak1693/remove-duplicate-item.git"
+  },
+  "author": "deepak1693",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak1693/remove-duplicate-item/issues"
+  },
+  "homepage": "https://github.com/deepak1693/remove-duplicate-item#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
